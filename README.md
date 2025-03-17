@@ -6,7 +6,6 @@ Proyek ini adalah aplikasi berbasis **Streamlit** yang terhubung dengan **MongoD
 ## 🚀 Fitur Utama
 ✅ Menambahkan produk baru dengan kategori yang dinamis.  
 ✅ Spesifikasi otomatis berubah sesuai dengan kategori produk.  
-✅ Upload gambar sebagai background GUI.  
 ✅ Update stok produk jika sudah ada di database.  
 ✅ Menggunakan MongoDB Atlas untuk penyimpanan data.
 
